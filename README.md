@@ -176,11 +176,11 @@ Deployado en heroku, conectado al repo con git para autodeployar.
 
 
 
-* [NodeJs](http://www.dropwizard.io/1.0.2/docs/) - El framework utilizado para crear las api.
+* [NodeJs](https://nodejs.org/es/) - El framework utilizado para crear las api.
 * [ExpressJs](https://expressjs.com/es/) usado para crear los enrutamientos y validaciones
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
 * [Nodemon](https://github.com/remy/nodemon) - Para autodeployar cambiios en Modo desarrollo
-* [Postman](https://rometools.github.io/rome/) - Usaro para hacer las pruebas a los endpoints
+* [Postman](https://www.postman.com) - Usaro para hacer las pruebas a los endpoints
 
 
 
