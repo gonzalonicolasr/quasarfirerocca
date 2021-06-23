@@ -202,7 +202,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * Bueno me hubiera gustado agregarle mas cosas pero no iba a llegar xD 📢
 * Un consejo: mirenlo tomando una cerveza o cafe 🤓, broma!
 * Muchas gracias chicos de verdad por su tiempo 😊.
-* etc.
+
 
 
 
