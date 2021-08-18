@@ -41,5 +41,7 @@ router.post(
 );
 
 router.get("/topsecret_split", getPositionObject);
-
+router.get("/hola", function (req, res, next) {
+  res.status(200).send("response");
+});
 module.exports = router;
