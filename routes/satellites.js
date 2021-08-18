@@ -1,6 +1,5 @@
 const { Router, request } = require("express");
 const { check } = require("express-validator");
-const fetch = require("node-fetch");
 const {
   verifySatellite,
   setSatellite,
@@ -42,15 +41,4 @@ router.post(
 
 router.get("/topsecret_split", getPositionObject);
 
-router.get("/hola", async function (req, res, next) {
-  let response = await getWeather();
-  await res.status(200).send(response);
-});
-async function getWeather() {
-  const weather = await fetch(
-    "https://steamcommunity.com/id/emmik/inventory/json/730/2"
-  );
-  let response = await weather.json();
-  return response;
-}
 module.exports = router;
